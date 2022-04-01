@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-#### 💻  I’m currently working at Magrathea Labs
+#### 💻  I’m currently working at Trusted Health
 
 #### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Some stuff that I Use: 
 
