@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/56320217/131412731-b6f506f4-63df-49a7-97b5-5e9ce01fa34d.png" alt="intellij" width="45" height="45"/><img src="https://user-images.githubusercontent.com/56320217/131412806-585a3b96-d8c5-4b50-b47b-9f2f2e12e1e5.png" alt="pycharm" width="45" height="45"/><img src="https://user-images.githubusercontent.com/56320217/131412902-270e6b4f-9f48-44ac-aad1-906a76040047.png" alt="robo3t" width="45" height="45"/><img src="https://user-images.githubusercontent.com/56320217/131413076-bf3dae24-d923-4a29-807b-3a041b115ae9.png" alt="androidstudio" width="45" height="45"/><img src="https://user-images.githubusercontent.com/56320217/131413485-d5482849-f698-4ede-b901-f0c4661ebdc0.png" alt="osx" width="45" height="45"/><img src="https://user-images.githubusercontent.com/56320217/131413335-9fe3dfdb-6830-4067-baa8-d4aacc862302.png" alt="ubuntu" width="45" height="45"/><img src="https://user-images.githubusercontent.com/56320217/131413398-3d95dc23-d7fc-49a4-9137-13b982536e36.png" alt="ubuntu" width="45" height="45"/>
 
 #### 🥇 Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaviank&hide=html,TeX,c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaviank&hide=html,TeX)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 🎧 Some Music
